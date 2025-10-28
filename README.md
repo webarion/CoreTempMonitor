@@ -1,6 +1,6 @@
 # Core Temp Monitor
 
-![Core Temp Monitor](screenshot.jpg)
+![Core Temp Monitor](res/screenshot.jpg)
 
 A graphical CPU temperature monitor with beautiful translucent interface, written in PureBasic. Works in conjunction with Core Temp to monitor CPU core temperatures and loads in real-time.
 
