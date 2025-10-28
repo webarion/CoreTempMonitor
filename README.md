@@ -11,7 +11,6 @@ A graphical CPU temperature monitor with beautiful translucent interface. Works 
 - **🔢 Detailed Information** - Temperature, load, frequency for each core
 - **⚡ Lightweight** - Minimal resource consumption
 - **🖱️ Easy Control** - Window dragging, system tray minimization
-- **🌐 Cross-Platform** - Supports Windows, Linux, macOS
 
 ## 🛠 Technical Details
 
